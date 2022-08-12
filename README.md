@@ -1,0 +1,1 @@
+### Using Reduce method to add time stamps
